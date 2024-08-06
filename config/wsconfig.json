@@ -1,0 +1,8 @@
+{
+    "errorLogPath": "./log/error",
+    "infoLogPath": "./log/info",
+    "errorLevel": true,
+    "infoLevel": true,
+    "debug_mode":false,
+    "api_token": ""
+}
